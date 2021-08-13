@@ -15,7 +15,7 @@
 
 开启抓包app后, Safari浏览器登录 https://bean.m.jd.com/bean/signIndex.action 点击签到并且出现签到日历后, 返回抓包app搜索关键字 functionId=signBean 复制请求头Cookie填入以下Key处的单引号内即可 */
 
-var Key = '__jdu=16156346628881825200312; mba_muid=16156346628881825200312; shshshfpa=96eb446c-a66e-a790-b9bc-215c9fc2f1a8-1625967099; shshshfpb=wcPntj6xreg09odas%2F2iHuw%3D%3D; TrackerID=3S_8HRXz5mlobIinUYIhrGVaXs9YJwchm19Z8j_gxsmo89IwG4f8MSX3r81JcHxwtsfY9aZ_a-pMDFeDXAJ6bJCax7sm0pBEi2UTR8qCyYppGwGp8Gby13ZRrJbQt7GsXbJHgDO4Ze85y96FhzpgDA; pt_key=AAJg6kpNADBmO7piSHlqQpGzkoiVF6s6Pv2_PvT5cocGXnqzNqZRlHJGPpoi7XaG9HbvDm_fhts; pt_pin=wdNkHbHalbrjIH; pt_token=sr2a2izw; pwdt_id=wdNkHbHalbrjIH; mobilev=html5; __jda=122270672.16156346628881825200312.1615634663.1625967098.1627656067.3; __jdv=122270672%7Cdirect%7C-%7Cnone%7C-%7C1627656067923; __jdc=122270672; 3AB9D23F7A4B3C9B=4TGBB7JKGPMJBZE6QFZNTPGK7NWJGRARKLRW5RX4JPFKKG3QVFNFWKOPFX6JWYQUKRN2OGYRWEQIVLFKLSRHO2LXDE; wxa_level=1; jxsid=16276560695764799678; webp=1; visitkey=46537454597423941; retina=1; cid=9; PPRD_P=UUID.16156346628881825200312; sc_width=479; wqmnx1=MDEyNjM1MXQvZWQvLy5vNjU0MWwuaSBvLmU1bEEgZWk3KExrY0NlMDUgbGY1NjNZZGY0M1ZSREZIJlI%3D; __jdb=122270672.6.16156346628881825200312|3.1627656067; mba_sid=16276560679269141257851631924.6; __wga=1627656121900.1627656089024.1627656089024.1627656089024.4.1; jxsid_s_t=1627656121964; jxsid_s_u=https%3A//home.m.jd.com/myJd/home.action; shshshfp=5b69568da6e62546569bffa79e358a6d; shshshsID=8a0185167a5e10dfffe304acd3584629_6_1627656122159'; //单引号内自行填写您抓取的Cookie
+var Key = '__jdu=978750499; shshshfpa=fbb23d9c-5789-9de9-8a5d-ab3131fcbd7b-1600745289; shshshfpb=ep1iQeFoQ0fDF8yxXYxGe0A%3D%3D; whwswswws=; pinId=ewj-awf-bP1ORy2tgKYuTQ; _pst=wdNkHbHalbrjIH; _tp=oO1zaW1rQ%2BDSLtxY4biJ8Q%3D%3D; pin=wdNkHbHalbrjIH; unick=NkHbHalbrjIH; autoOpenApp_downCloseDate_auto=1626665784885_10800000; TrackID=1zKv8dNL8VEQQa6ZR_Za7MlRI73XZyH5MPPi3tocjPuTK7C5uCNeL4Slc6Wkb1CIf_2YetPy1ZIfm6CzbRO8iveKjtFXWLzIXZvyWK4exwQg; __jdv=76161171|direct|-|none|-|1628670393261; areaId=2; ipLoc-djd=2-2841-51980-0; PCSYCityID=CN_310000_310100_310107; shshshfp=82ce7045910eb4b443c0c425e523fb53; __jda=122270672.978750499.1600236365.1628670393.1628818332.78; __jdc=122270672; mba_muid=978750499; shshshsID=4b6e2c85d2f568dc6736281645e86d21_1_1628818334162; 3AB9D23F7A4B3C9B=J43B5C25V2745FTOSDOPEYZVJKMROECUZJI7W6USJ62X6XOSLYB5OC4FU5LUIGY5MRFL5TF5LA7P7HWG3IUICJCIF4; jcap_dvzw_fp=s1guT2wTeofxQgT0M2MFWAYSY1ynFw1PDF8qu9yDjrmo19oxkTlrt6_BehH_u4OawlzOig==; TrackerID=cweJDCfo3ZcruKYEHBRhiSp-ps4_CMnhOY2j376Thr8wrBvDLTQQtQyLPPpceeU7soN3LajHkNb--PeUDTiq3kIG7Wgm6Ch7W8xy8GWtKvPd9dcEqfWF56HX2Rbh0zUGO6EnaMO_1abCRIs4zaMTYQ; pt_key=AAJhFcu7ADAAbzm_6QjQIWHc1cjWaZG_BCUyxszgZSFKkv6cM29l4VbINt_g-N5H9elz6gyDmPo; pt_pin=wdNkHbHalbrjIH; pt_token=sfp8fden; pwdt_id=wdNkHbHalbrjIH; sfstoken=tk01mb7cb1c33a8sMysxUFhtTGpsw9JtFeGoFmX9flb+MF+IEC4oKKCvSR15DUNgBVC3Kr0PSX9ho8WQ2qTcwtjfbruC; __jd_ref_cls=MLoginRegister_SMSLoginSuccess; mobilev=html5; __jdb=122270672.2.978750499|78.1628818332; mba_sid=16288183328244805747753694811.2'; //单引号内自行填写您抓取的Cookie
 
 var DualKey = ''; //如需双账号签到,此处单引号内填写抓取的"账号2"Cookie, 否则请勿填写
 
@@ -137,6 +137,7 @@ async function all() {
         JDUserSignPre(stop, 'JDWomen', '京东商城-女装', 'DpSh7ma8JV7QAxSE2gJNro8Q2h9'), //京东女装馆
         JDUserSignPre(stop, 'JDBook', '京东商城-图书', '3SC6rw5iBg66qrXPGmZMqFDwcyXi'), //京东图书
         JDUserSignPre(stop,'JDJiaDian','京东商城-小家电馆','3uvPyw1pwHARGgndatCXddLNUxHw'), // 京东小家电
+        JDUserSignPre(stop, 'ReceiveJD', '京东商城-领京豆', 'Ni5PUSK7fzZc4EKangHhqPuprn2'), //京东-领京豆
         JingRongDoll(stop, 'JTDouble', '京东金贴-双签', '1DF13833F7'), //京东金融 金贴双签
         // JingRongDoll(stop, 'XJDouble', '金融现金-双签', 'F68B2C3E71', '', '', '', 'xianjin') //京东金融 现金双签
       ]);
@@ -197,6 +198,7 @@ async function all() {
       await JDUserSignPre(Wait(stop), 'JDClean', '京东商城-清洁', '2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6'); //京东清洁馆
       await JDUserSignPre(Wait(stop), 'JDCare', '京东商城-个护', '2tZssTgnQsiUqhmg5ooLSHY9XSeN'); //京东个人护理馆
       await JDUserSignPre(Wait(stop), 'JDJiaDian','京东商城-小家电馆','3uvPyw1pwHARGgndatCXddLNUxHw'); // 京东小家电馆
+      await JDUserSignPre(Wait(stop), 'ReceiveJD', '京东商城-领京豆', 'Ni5PUSK7fzZc4EKangHhqPuprn2'); //京东-领京豆
       // await JDUserSignPre(Wait(stop), 'JDJewels', '京东商城-珠宝', 'zHUHpTHNTaztSRfNBFNVZscyFZU'); //京东珠宝馆
       await JingRongDoll(Wait(stop), 'JDDouble', '金融京豆-双签', 'F68B2C3E71', '', '', '', 'jingdou'); //京东金融 京豆双签
       break;
